@@ -1,1 +1,1 @@
-# BeWell---ios-dev-app
+# BeWell-iOS dev app
